@@ -1,0 +1,27 @@
+{
+  "name": "savia-backend",
+  "version": "1.0.0",
+  "description": "pruebas para la subtarea  2 de la semana 8 de SAVIA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LesterXs20/savia-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LesterXs20/savia-backend/issues"
+  },
+  "homepage": "https://github.com/LesterXs20/savia-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^5.2.1",
+    "mqtt": "^5.15.2",
+    "pg": "^8.23.0"
+  }
+}
